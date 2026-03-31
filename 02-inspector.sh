@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Suryansh  (24BEC10060)
+# Author: Sujal (24BSA10304)
 
 # Define package name based on OS detection
 if [ -x "$(command -v apt)" ]; then
