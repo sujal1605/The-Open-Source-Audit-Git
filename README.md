@@ -1,7 +1,7 @@
 # The Open Source Audit: Git
 
-**Student Name:** Suryansh Rao <br>
-**Registration Number:** 24BEC10060 <br>
+**Student Name:** Sujal Bedarkar <br>
+**Registration Number:** 24Bsa10304 <br>
 **Project Focus:** Git (FOSS Audit)
 
 ## Project Overview
