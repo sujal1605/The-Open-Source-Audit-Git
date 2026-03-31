@@ -1,7 +1,7 @@
 # The Open Source Audit: Git
 
 **Student Name:** Sujal Bedarkar <br>
-**Registration Number:** 24Bsa10304 <br>
+**Registration Number:** 24BSA10304 <br>
 **Project Focus:** Git (FOSS Audit)
 
 ## Project Overview
