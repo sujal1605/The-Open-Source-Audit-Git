@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Suryansh  (24BEC10060)
+# Author: Sujal (24BSA10304)
 
 dirs=("/etc" "/var/log" "/usr/bin" "/home" "/root")
 dirs+=("/usr/lib/git-core" "/etc/git")
