@@ -32,7 +32,7 @@ This repository contains a suite of 5 Bash shell scripts designed for a universi
 
 ---
 
-## Instructions for Use
+## Instructions For Use
 ```bash
 chmod +x *.sh
 ./01-identify.sh
