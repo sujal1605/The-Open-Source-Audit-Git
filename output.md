@@ -6,14 +6,14 @@ This document contains simulated terminal outputs for the 5 audit scripts.
 
 ## 1. System Identity Report (`01-identify.sh`)
 ```bash
-Suryansh @ubuntu-server:~/Git$ ./01-identify.sh
+Sujal @ubuntu-server:~/Git$ ./01-identify.sh
 ================================================================================
                    Git AUDIT - SYSTEM IDENTITY                    
 ================================================================================
 Linux Distribution: Ubuntu 22.04.3 LTS
 Kernel Version:     5.15.0-89-generic
-Current User:       Suryansh 
-Home Directory:     /home/Suryansh 
+Current User:       Sujal 
+Home Directory:     /home/Sujal 
 System Uptime:      up 2 hours, 45 minutes
 Current Date/Time:  Mon Mar 30 2026 18:11:19 GMT+0000 (Coordinated Universal Time)
 --------------------------------------------------------------------------------
@@ -25,7 +25,7 @@ Message: This system runs on Open Source software, providing freedom to study, c
 
 ## 2. FOSS Package Inspector (`02-packages.sh`)
 ```bash
-Suryansh @ubuntu-server:~/Git$ ./02-packages.sh
+Sujal @ubuntu-server:~/Git$ ./02-packages.sh
 ================================================================================
                    Git AUDIT - PACKAGE INSPECTOR                 
 ================================================================================
@@ -44,7 +44,7 @@ FOSS Philosophy Notes:
 
 ## 3. Disk and Permission Auditor (`03-auditor.sh`)
 ```bash
-Suryansh @ubuntu-server:~/Git$ ./03-auditor.sh
+Sujal @ubuntu-server:~/Git$ ./03-auditor.sh
 /etc exists
 Size: 164K
 Permissions: 755
@@ -86,7 +86,7 @@ Owner: root
 
 ## 4. Log File Analyzer (`04-logs.sh`)
 ```bash
-Suryansh @ubuntu-server:~/Git$ ./04-logs.sh /var/log/syslog error
+Sujal @ubuntu-server:~/Git$ ./04-logs.sh /var/log/syslog error
 ================================================================================
                    Git AUDIT - LOG FILE ANALYZER                
 ================================================================================
@@ -107,15 +107,15 @@ Mar 30 18:10:05 ubuntu-server systemd[1]: Failed to start Service.
 
 ## 5. Open Source Manifesto Generator (`05-manifesto.sh`)
 ```bash
-Suryansh @ubuntu-server:~/Git$ ./05-manifesto.sh
+Sujal @ubuntu-server:~/Git$ ./05-manifesto.sh
 ================================================================================
                    Git AUDIT - OPEN SOURCE MANIFESTO              
 ================================================================================
-My name is Suryansh, and I believe in the power of open source software.
+My name is Sujal, and I believe in the power of open source software.
 My favorite open source project is Git, and I think it's a great example of what can be achieved through collaboration and community involvement.
 I believe that the most important aspect of open source software is freedom, and I think it's essential for the continued growth and development of the open source community.
 --------------------------------------------------------------------------------
 Saving manifesto to file...
-Manifesto saved to Suryansh.txt
+Manifesto saved to Sujal.txt
 ================================================================================
 ```
