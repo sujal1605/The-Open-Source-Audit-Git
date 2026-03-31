@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Suryansh  (24BEC10060)
+# Author: Sujal (24BSA10304)
 
 # Extract Linux Distro
 Linux_Distro=$(cat /etc/os-release | grep "NAME" | cut -d '=' -f2-)
