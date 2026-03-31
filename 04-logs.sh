@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Suryansh  (24BEC10060)
+# Author: Sujal (24BSA10304)
 
 # Suggest a realistic log path for Git
 # /var/log/git.log
