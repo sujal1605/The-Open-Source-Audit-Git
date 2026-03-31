@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Suryansh  (24BEC10060)
+# Author: Sujal (24BSA10304)
 
 read -p "What is your name? " name
 read -p "What is your favorite open source project? " project
